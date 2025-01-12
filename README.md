@@ -2,6 +2,8 @@
 
 This repository includes my answers for the Project Euler questions. I've mostly written them in C or C++ for performance, but I use Python from time to time to simplify my life and avoid having mental breakdowns. The repository is under the GNU GPL-3.0 License.
 
+In accordance to Project Euler's guidlines, I will only be publishing solutions to the first 100 problems on this repo. However, if you want to see how far I've gone in Project Euler, you can [check out my profile](https://projecteuler.net/profile/random.programmer.guy.png).
+
 # What is Project Euler?
 
 According to the ([official Project Euler website](projecteuler.net)):
